@@ -1,0 +1,339 @@
+#-------------------------------
+# General Site Settings
+
+title: Anh Vu NGUYEN
+logo: 
+author: Anh Vu Nguyen
+description: Anh Vu Nguyen's Portfolio website
+email: anhvunguyen.contact@gmail.com
+phone: 
+address: Nantes (44300), France
+copyright: Copyright &copy; 2021 Designed by [Themefisher](https://themefisher.com) & developed by [Getjekyllthemes](https://getjekyllthemes.com) & modified by [Anh Vu Nguyen](https://www.linkedin.com/in/anh-vu-nguyen-56102a1b2/)
+
+menu:
+- {name: About, link: '/about'}
+- {name: Portfolio, link: '/portfolio'}
+
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+google-analytics: # UA-XXXXXX-X
+
+
+#-------------------------------
+# Comment Section (Disqus)
+
+disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Hero Section
+
+hero:
+  hero-title: Hi! I’m <br> Anh Vu <br> Junior Data Scientist /<br> Research Engineer
+
+social:
+- {icon: "ti-linkedin", link: "https://www.linkedin.com/in/anh-vu-nguyen-56102a1b2/"}
+- {icon: "ti-github", link: "https://github.com/anh-vunguyen"}
+- {icon: "ti-id-badge", link: "https://www.hackerrank.com/avunguyen?hr_r=1"}
+
+
+#-------------------------------
+# About (Section and Page)
+
+# About Section
+blurb:
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+blurb-btn-link: '/about'
+blurb-btn-name: know more
+
+
+# About Page
+
+# Work Process Section
+work-process:
+  - title : "Research and Plan"
+    icon : "assets/images/icons/plan.png"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    
+  - title : "Design and Develop"
+    icon : "assets/images/icons/design.png"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    
+  - title : "Deliver"
+    icon : "assets/images/icons/print.png"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#-------------------------------
+# Skills Section
+
+skills-title: Skills
+skills:
+- {name: Python, color: '#fdb157', value: '95%'}
+- {name: MATLAB, color: '#9473e6', value: '90%'}
+- {name: SQL, color: '#bdecf6', value: '90%'}
+- {name: Data Science, color: '#ffbcaa', value: '90%'}
+- {name: Research, color: '#fdb157', value: '90%'}
+- {name: Machine Learning, color: '#9473e6', value: '90%'}
+- {name: Deep Learning specialization, color: '#bdecf6', value: '85%'}
+- {name: Signal Processing, color: '#ffbcaa', value: '85%'}
+- {name: Image/Video Processing, color: '#fdb157', value: '85%'}
+- {name: C / C++, color: '#9473e6', value: '80%'}
+- {name: Java, color: '#bdecf6', value: '80%'}
+- {name: App Development, color: '#ffbcaa', value: '80%'}
+
+#-------------------------------
+# Exprerience Section
+
+experience-title: Experience
+experience:
+- {name: Research Engineer Intern, icon: 'icon-1.png', date: 'Mar. 2021 - Sept. 2021', organization: 'INSERM / LTSI'}
+- {name: Developer, icon: 'icon-2.png', date: 'Apr. 2018 - Jun. 2018', organization: 'Lovenador Game Studio'}
+
+
+#-------------------------------
+# Education Section
+
+education-title: Education
+education:
+- {name: 'Master in Electronics, Electrical Energy & Automation - Specialised in Signal & Image Processing', date: '2019 - 2021', organization: 'University of Rennes 1 (France), graduated with Mention Très Bien (equiv. Summa Cum Laude)'}
+- {name: 'Bachelor in Electronics, Electrical Energy & Automation', date: '2016 - 2019', organization: 'University of Rennes 1 (France), graduated with Mention Très Bien (equiv. Summa Cum Laude)'}
+
+
+#-------------------------------
+# Services Section
+
+services-title: Degrees & Certificates
+services:
+- {
+    name: 'Master in Electronics, Electrical Energy & Automation - Specialised in Signal & Image Processing',
+    icon: 'ur1_dg.png',
+    description: 'University of Rennes 1 (France, 2021), graduated with Mention Très Bien (equiv. Summa Cum Laude).',
+    active: # Add true to select section
+  }
+- {
+    name: 'IBM Data Science Professional Certificate',
+    icon: 'ibm_45.png',
+    description: 'Issued Dec. 2021 by IBM.',
+    active: # Add true to select section
+  }
+- {
+    name: 'Data Engineering, Big Data, and Machine Learning on Google Cloud Platform (GCP) Specialization',
+    icon: 'google_45.png',
+    description: 'Issued Nov. 2021 by Google Cloud Training.',
+    active: # Add true to select section
+  }
+- {
+    name: 'DeepLearning.AI TensorFlow Developer Professional Certificate',
+    icon: 'deeplearning_ai_45.png',
+    description: 'Issued Aug. 2020 by DeepLearning.AI.',
+    active: # Add true to select section
+  }
+- {
+    name: 'Deep Learning Specialization',
+    icon: 'deeplearning_ai_45.png',
+    description: 'Issued Jul. 2020 by DeepLearning.AI.',
+    active: # Add true to select section
+  }
+- {
+    name: 'Bachelor in Electronics, Electrical Energy & Automation',
+    icon: 'ur1_dg.png',
+    description: 'University of Rennes 1 (France, 2019), graduated with Mention Très Bien (equiv. Summa Cum Laude).',
+    active: # Add true to select section
+  }
+
+
+#-------------------------------
+# Portfolio (Section and Page)
+
+# Portfolio Home Section
+portfolio-home-items:
+  - image : "assets/images/portfolio/item-1.png"
+    url: "https://drive.google.com/file/d/1_XA-ylmICeu1oBFi23pEbU8aeRoGUD16/view?usp=sharing"
+    
+  - image : "assets/images/portfolio/item-2.png"
+    url: "https://drive.google.com/file/d/1d_DspfhLb0YhJNvDx13P8AON6j9vRvDB/view?usp=sharing"
+    
+  - image : "assets/images/portfolio/item-3.png"
+    url: "https://drive.google.com/file/d/1ojPfRyndrtG698owi_G-PPPfce2R-mHe/view?usp=sharing"
+    
+  - image : "assets/images/portfolio/item-4.png"
+    url: "https://drive.google.com/file/d/160NwUGVoGSW4gZUxcMxUoV8rZ3tgbg-3/view?usp=sharing"
+    
+  - image : "assets/images/portfolio/item-5.png"
+    url: "https://drive.google.com/file/d/1KWbcXXFQse5EF1tMtySgBtrii9qN-7x-/view?usp=sharing"
+
+
+# Portfolio Page
+portfolio-label:
+- {
+    title : "Data Science",
+    type : "datascience"
+  }
+- {
+    title : "Computer Vision",
+    type : "computervision"
+  }
+- {
+    title : "Research",
+    type : "research"
+  }
+- {
+    title : "Signal Processing",
+    type : "signalprocessing"
+  }
+- {
+    title : "Machine Learning",
+    type : "machinelearning"
+  }
+- {
+    title : "Deep Learning",
+    type : "deeplearning"
+  }
+  
+portfolio-items:
+  - image : "assets/images/portfolio/item-1.png"
+    url: "https://drive.google.com/file/d/1_XA-ylmICeu1oBFi23pEbU8aeRoGUD16/view?usp=sharing"
+    portfolio-type:
+     - type: "datascience"
+     - type: "signalprocessing"
+     - type: "machinelearning"
+     - type: "deeplearning"
+     
+      
+  - image : "assets/images/portfolio/item-2.png"
+    url: "https://drive.google.com/file/d/1d_DspfhLb0YhJNvDx13P8AON6j9vRvDB/view?usp=sharing"
+    portfolio-type:
+     - type: "computervision"
+     - type: "machinelearning"
+      
+  - image : "assets/images/portfolio/item-3.png"
+    url: "https://drive.google.com/file/d/1ojPfRyndrtG698owi_G-PPPfce2R-mHe/view?usp=sharing"
+    portfolio-type:
+     - type: "datascience"
+     - type: "machinelearning"
+      
+  - image : "assets/images/portfolio/item-4.png"
+    url: "https://drive.google.com/file/d/160NwUGVoGSW4gZUxcMxUoV8rZ3tgbg-3/view?usp=sharing"
+    portfolio-type:
+     - type: "computervision"
+     - type: "machinelearning"
+      
+  - image : "assets/images/portfolio/item-5.png"
+    url: "https://drive.google.com/file/d/1KWbcXXFQse5EF1tMtySgBtrii9qN-7x-/view?usp=sharing"
+    portfolio-type:
+     - type: "Research"
+     - type: "signalprocessing"
+     - type: "machinelearning"
+     - type: "deeplearning"
+
+      
+#-------------------------------
+# Testimonials Section
+
+testimonial-items:
+  - name: "Lao Tzu"
+    image: "assets/images/testimonial/client-1.jpg"
+    designation : "Ancient Chinese philosopher - Supreme Old Lord"
+    content : "A journey of a thousand miles begins with a single step."
+    
+  - name: "Plato"
+    image: "assets/images/testimonial/client-2.jpg"
+    designation: "Athenian philosopher - The Founder of Western political philosophy"
+    content: "Excellence is not a gift, but a skill that takes practice. We do not act rightly because we are excellent, in fact we achieve excellence by acting rightly."
+    
+  - name: "Albert Einstein"
+    image: "assets/images/testimonial/client-3.jpg"
+    designation: "Theoretical physicist - One of the Greatest Physicists of all time"
+    content: "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution."
+
+  - name: "Nikola Tesla"
+    image: "assets/images/testimonial/client-4.jpg"
+    designation: "Inventor - The Genius who Electrified the World"
+    content: "Be alone, that is the secret of invention; be alone, that is when ideas are born."
+ 
+  - name: "Marie Curie"
+    image: "assets/images/testimonial/client-5.jpg"
+    designation: "Polish-French physicist - the first person and the only woman to win the Nobel Prize twice, and the only person to win the Nobel Prize in two scientific fields"
+    content: "I was taught that the way of progress was neither swift nor easy."
+
+  - name: "Alan Turing"
+    image: "assets/images/testimonial/client-6.jpg"
+    designation: "English computer scientist - The Godfather of Computer Science"
+    content: "Machines take me by surprise with great frequency."
+
+  - name: "Steve Jobs"
+    image: "assets/images/testimonial/client-7.jpg"
+    designation: "Co-founder of Apple Inc. - Pioneer of the personal computer revolution"
+    content: "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma - which is living with the results of other people's thinking. Don't let the noise of others' opinions drown out your own inner voice."
+
+  - name: "Patrick Winston"
+    image: "assets/images/testimonial/client-8.jpg"
+    designation: "American computer scientist & Professor at the Massachusetts Institute of Technology - My beloved professor who led me to the A.I. World"
+    content: "Students shouldn't go out into life without the ability to communicate. Your success in life will be determined largely by...your ability to speak, your ability to write, & the quality of your ideas, **in that order**."
+
+  - name: "Jordan B. Peterson"
+    image: "assets/images/testimonial/client-9.jpg"
+    designation: "Canadian clinical psychologist - My mental coach"
+    content: "Perhaps you are overvaluing what you don’t have and undervaluing what you do."
+
+  - name: "Andrew Ng"
+    image: "assets/images/testimonial/client-10.jpg"
+    designation: "Co-founder & head of Google Brain, co-founder of Coursera - My beloved teacher who introduced me to Deep Learning and made me become addicted to learning online courses"
+    content: "It seemed really amazing that you could write a few lines of code and have it learn to do interesting things."
+  
+  - name: "Elon Musk"
+    image: "assets/images/testimonial/client-11.jpg"
+    designation: "Entrepreneur & Business Magnate - My role model"
+    content: "When something is important enough, you do it even if the odds are not in your favor."
+ 
+  - name: "Micheal Jordan"
+    image: "assets/images/testimonial/client-12.jpg"
+    designation: "American former professional basketball player & businessman - The Greatest basketball player of All Time"
+    content: "If you quit ONCE it becomes a habit. Never quit!"
+#-------------------------------
+# Client Slider Section
+
+client-slider-items:
+  - logo: "assets/images/clients-logo/client-logo-1.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/client-logo-2.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/client-logo-3.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/client-logo-4.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/client-logo-5.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/client-logo-1.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/client-logo-2.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/client-logo-3.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/client-logo-4.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/client-logo-5.png"
+    url: "#"
+
+#-------------------------------
+# Contact Section
+
+contact-title: Contact Info
+contact-email: anhvunguyen.contact@gmail.com
