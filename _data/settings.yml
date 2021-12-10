@@ -8,7 +8,7 @@ description: Anh Vu Nguyen's Portfolio website
 email: anhvunguyen.contact@gmail.com
 phone: 
 address: Nantes (44300), France
-copyright: Copyright &copy; 2021 Designed by [Themefisher](https://themefisher.com) & developed by [Getjekyllthemes](https://getjekyllthemes.com) & modified by [Anh Vu Nguyen](https://www.linkedin.com/in/anh-vu-nguyen-56102a1b2/)
+copyright: Copyright &copy; 2021 Designed by [Themefisher](https://github.com/themefisher/kross-jekyll) & developed by [Getjekyllthemes](https://getjekyllthemes.com) & modified by [Anh Vu Nguyen](https://www.linkedin.com/in/anh-vu-nguyen-56102a1b2/)<br><div>Icons made by <div>Icons made by <a href="https://www.flaticon.com/authors/noomtah" title="noomtah">noomtah</a>, <a href="https://www.flaticon.com/authors/juicy-fish" title="juicy_fish">juicy_fish</a>, <a href="https://www.flaticon.com/authors/backwoods" title="Backwoods">Backwoods</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 menu:
 - {name: About, link: '/about'}
@@ -59,17 +59,17 @@ blurb-btn-name: know more
 
 # Work Process Section
 work-process:
-  - title : "Research and Plan"
-    icon : "assets/images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  - title : "Competencies"
+    icon : "assets/images/icons/competence.png"
+    content : "Complex Problem Solving<br>Conceptual and Analytical Thinking<br>Teamwork and Cooperation<br>Willingness to Learn<br>Strong Work Ethic<br>Responsability<br>Creativity<br>Flexibility<br>"
     
-  - title : "Design and Develop"
-    icon : "assets/images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  - title : "Personality"
+    icon : "assets/images/icons/personality.png"
+    content : "Self-disciplined<br>Dutiful<br>Organized<br>Gracious<br>Adaptable<br>Friendly<br>"
     
-  - title : "Deliver"
-    icon : "assets/images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  - title : "Hobbies"
+    icon : "assets/images/icons/hobby.png"
+    content : "Music Composing<br>Reading<br>Game Developing<br>Participating A.I Forums"
 
 #-------------------------------
 # Skills Section
@@ -94,7 +94,7 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Research Engineer Intern, icon: 'icon-1.png', date: 'Mar. 2021 - Sept. 2021', organization: 'INSERM / LTSI'}
+- {name: Research Engineer Intern, icon: 'icon-1.png', date: 'Mar. 2021 - Sept. 2021', organization: "French National Institute of Health and Medical Research (INSERM) / Laboratoire Traitement du Signal et de l'Image (LTSI)"}
 - {name: Developer, icon: 'icon-2.png', date: 'Apr. 2018 - Jun. 2018', organization: 'Lovenador Game Studio'}
 
 
@@ -229,7 +229,7 @@ portfolio-items:
   - image : "assets/images/portfolio/item-5.png"
     url: "https://drive.google.com/file/d/1KWbcXXFQse5EF1tMtySgBtrii9qN-7x-/view?usp=sharing"
     portfolio-type:
-     - type: "Research"
+     - type: "research"
      - type: "signalprocessing"
      - type: "machinelearning"
      - type: "deeplearning"
@@ -300,38 +300,38 @@ testimonial-items:
     content: "If you quit ONCE it becomes a habit. Never quit!"
 #-------------------------------
 # Client Slider Section
+client-slider-items:   
 
-client-slider-items:
   - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
+    url: "https://www.inserm.fr/en/home/"
     
   - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
+    url: "https://www.ltsi.univ-rennes1.fr/"
     
   - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
+    url: "https://www.univ-rennes1.fr/"
     
   - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
+    url: "https://istic.univ-rennes1.fr/"
     
   - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
+    url: "https://play.google.com/store/apps/details?id=com.lovenador.ninerelax&hl=en&gl=US"
     
   - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
+    url: "https://www.inserm.fr/en/home/"
     
   - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
+    url: "https://www.ltsi.univ-rennes1.fr/"
     
   - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
+    url: "https://www.univ-rennes1.fr/"
     
   - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
+    url: "https://istic.univ-rennes1.fr/"
     
   - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
-
+    url: "https://play.google.com/store/apps/details?id=com.lovenador.ninerelax&hl=en&gl=US"
+    
 #-------------------------------
 # Contact Section
 

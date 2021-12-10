@@ -1,8 +1,8 @@
 ---
 layout: about
 title: About Me
-author: Johnathan Smith
-image: assets/images/about/author.jpg
+author: Anh Vu Nguyen
+image: assets/images/about/author.png
 signature: assets/images/about/signature.png
 ---
 
