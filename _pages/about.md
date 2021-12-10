@@ -10,6 +10,7 @@ A highly disciplined and fervent junior data scientist/research engineer who use
 A lifelong learner who constantly pursues new knowledge and goes out of his comfort zone. With a solid quantitative background, I am well-equipped to deal with tough challenges in Data Science and Machine Learning.
 Advanced analytics, state-of-the-art Machine Learning algorithms, powerful quantitative tools, curiosity, and an open mind are the way I make data tell their stories and share their hidden secrets.
 Always in my mind, Data Science is a team sport and we share our journey toward our goals together. Through collaboration not only between members of the Data Science team but also with other departments, accurate data-driven strategies can be made and fruitful results can be yielded for our organization.
-Let us go forward together.
+<br>Let us go forward together.
+<br>Thank you for being here!
 
 
