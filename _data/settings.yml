@@ -8,7 +8,7 @@ description: Anh Vu Nguyen's Portfolio website
 email: anhvunguyen.contact@gmail.com
 phone: 
 address: Nantes (44300), France
-copyright: Copyright &copy; 2021 Designed by [Themefisher](https://github.com/themefisher/kross-jekyll) & developed by [Getjekyllthemes](https://getjekyllthemes.com) & modified by [Anh Vu Nguyen](https://www.linkedin.com/in/anh-vu-nguyen-56102a1b2/)<br><div>Icons made by <div>Icons made by <a href="https://www.flaticon.com/authors/noomtah" title="noomtah">noomtah</a>, <a href="https://www.flaticon.com/authors/juicy-fish" title="juicy_fish">juicy_fish</a>, <a href="https://www.flaticon.com/authors/backwoods" title="Backwoods">Backwoods</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+copyright: Copyright &copy; 2021 Designed by [Themefisher](https://github.com/themefisher/kross-jekyll) & developed by [Getjekyllthemes](https://getjekyllthemes.com) & modified by [Anh Vu Nguyen](https://www.linkedin.com/in/anh-vu-nguyen-56102a1b2/)<br>Icons made by <a href="https://www.flaticon.com/authors/noomtah" title="noomtah">noomtah</a>, <a href="https://www.flaticon.com/authors/juicy-fish" title="juicy_fish">juicy_fish</a>, <a href="https://www.flaticon.com/authors/backwoods" title="Backwoods">Backwoods</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
 
 menu:
 - {name: About, link: '/about'}
@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Anh Vu <br> Junior Data Scientist /<br> Research Engineer
+  hero-title: Hi! I’m <br> Anh Vu <br> Junior Data Scientist
 
 social:
 - {icon: "ti-linkedin", link: "https://www.linkedin.com/in/anh-vu-nguyen-56102a1b2/"}
@@ -94,7 +94,7 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Research Engineer Intern, icon: 'icon-1.png', date: 'Mar. 2021 - Sept. 2021', organization: "French National Institute of Health and Medical Research (INSERM) / Laboratoire Traitement du Signal et de l'Image (LTSI)"}
+- {name: Data Scientist Intern, icon: 'icon-1.png', date: 'Mar. 2021 - Sept. 2021', organization: "French National Institute of Health and Medical Research (INSERM) / Laboratoire Traitement du Signal et de l'Image (LTSI)"}
 - {name: Developer, icon: 'icon-2.png', date: 'Apr. 2018 - Jun. 2018', organization: 'Lovenador Game Studio'}
 
 
