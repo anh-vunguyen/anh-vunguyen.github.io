@@ -7,8 +7,8 @@ author: Anh Vu Nguyen
 description: Anh Vu Nguyen's Portfolio website
 email: anhvunguyen.contact@gmail.com
 phone: 
-address: Nantes (44300), France
-copyright: Copyright &copy; 2021 Designed by [Themefisher](https://github.com/themefisher/kross-jekyll) & developed by [Getjekyllthemes](https://getjekyllthemes.com) & modified by [Anh Vu Nguyen](https://www.linkedin.com/in/anh-vu-nguyen-56102a1b2/)<br>Icons made by <a href="https://www.flaticon.com/authors/noomtah" title="noomtah">noomtah</a>, <a href="https://www.flaticon.com/authors/juicy-fish" title="juicy_fish">juicy_fish</a>, <a href="https://www.flaticon.com/authors/backwoods" title="Backwoods">Backwoods</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+address: Adelaide (5000), Australia
+copyright: Updated August 2022, Copyright &copy; Designed by [Themefisher](https://github.com/themefisher/kross-jekyll) & developed by [Getjekyllthemes](https://getjekyllthemes.com) & modified by [Anh Vu Nguyen](https://www.linkedin.com/in/anh-vu-nguyen-56102a1b2/)<br>Icons made by <a href="https://www.flaticon.com/authors/noomtah" title="noomtah">noomtah</a>, <a href="https://www.flaticon.com/authors/juicy-fish" title="juicy_fish">juicy_fish</a>, <a href="https://www.flaticon.com/authors/backwoods" title="Backwoods">Backwoods</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
 
 menu:
 - {name: About, link: '/about'}
@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Anh Vu <br> Junior Data Scientist / Machine Learning Engineer
+  hero-title: Hi! I’m <br> Anh Vu <br> Junior Machine Learning Engineer / Research Engineer
 
 social:
 - {icon: "ti-linkedin", link: "https://www.linkedin.com/in/anh-vu-nguyen-56102a1b2/"}
@@ -49,7 +49,7 @@ social:
 
 # About Section
 blurb:
-  A highly disciplined and fervent junior data scientist/machine learning engineer who uses data to solve problems and uncover precious insights for data-driven decision-making. A lifelong learner who constantly pursues new knowledge and goes out of his comfort zone. With a...
+  A highly disciplined and fervent junior machine learning engineer/research engineer who uses data to solve problems and uncover precious insights for data-driven decision-making. A lifelong learner who constantly pursues new knowledge and goes out of his comfort zone. With a...
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -94,7 +94,7 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Data Scientist Intern, icon: 'icon-1.png', date: 'Mar. 2021 - Sept. 2021', organization: "French National Institute of Health and Medical Research (INSERM) / Laboratoire Traitement du Signal et de l'Image (LTSI)"}
+- {name: Research Engineer Intern, icon: 'icon-1.png', date: 'Mar. 2021 - Sept. 2021', organization: "French National Institute of Health and Medical Research (INSERM) / Laboratoire Traitement du Signal et de l'Image (LTSI)"}
 - {name: Developer, icon: 'icon-2.png', date: 'Apr. 2018 - Jun. 2018', organization: 'Lovenador Game Studio'}
 
 
@@ -103,6 +103,7 @@ experience:
 
 education-title: Education
 education:
+- {name: 'Graduate Certificate in Artificial Intelligence and Machine Learning', date: '2022 - present', organization: 'The University of Adelaide (Australia)'}
 - {name: 'Master in Electronics, Electrical Energy & Automation - Specialised in Signal & Image Processing', date: '2019 - 2021', organization: 'University of Rennes 1 (France), graduated with Mention Très Bien (equiv. Summa Cum Laude)'}
 - {name: 'Bachelor in Electronics, Electrical Energy & Automation', date: '2016 - 2019', organization: 'University of Rennes 1 (France), graduated with Mention Très Bien (equiv. Summa Cum Laude)'}
 
@@ -119,21 +120,27 @@ services:
     active: # Add true to select section
   }
 - {
+    name: 'Machine Learning Engineering for Production (MLOps) Specialization',
+    icon: 'deeplearning_ai_45.png',
+    description: 'Issued May. 2022 by DeepLearning.AI.',
+    active: # Add true to select section
+  }
+- {
     name: 'IBM Data Science Professional Certificate',
     icon: 'ibm_45.png',
     description: 'Issued Dec. 2021 by IBM.',
     active: # Add true to select section
   }
 - {
-    name: 'Data Engineering, Big Data, and Machine Learning on Google Cloud Platform (GCP) Specialization',
-    icon: 'google_45.png',
-    description: 'Issued Nov. 2021 by Google Cloud Training.',
-    active: # Add true to select section
-  }
-- {
     name: 'DeepLearning.AI TensorFlow Developer Professional Certificate',
     icon: 'deeplearning_ai_45.png',
     description: 'Issued Aug. 2020 by DeepLearning.AI.',
+    active: # Add true to select section
+  }
+- {
+    name: 'Data Engineering, Big Data, and Machine Learning on Google Cloud Platform (GCP) Specialization',
+    icon: 'google_45.png',
+    description: 'Issued Nov. 2021 by Google Cloud Training.',
     active: # Add true to select section
   }
 - {
@@ -300,7 +307,10 @@ testimonial-items:
     content: "If you quit ONCE it becomes a habit. Never quit!"
 #-------------------------------
 # Client Slider Section
-client-slider-items:   
+client-slider-items:
+
+  - logo: "assets/images/clients-logo/client-logo-6.png"
+    url: "https://www.adelaide.edu.au/"
 
   - logo: "assets/images/clients-logo/client-logo-1.png"
     url: "https://www.inserm.fr/en/home/"
@@ -316,6 +326,9 @@ client-slider-items:
     
   - logo: "assets/images/clients-logo/client-logo-5.png"
     url: "https://play.google.com/store/apps/details?id=com.lovenador.ninerelax&hl=en&gl=US"
+    
+  - logo: "assets/images/clients-logo/client-logo-6.png"
+    url: "https://www.adelaide.edu.au/"
     
   - logo: "assets/images/clients-logo/client-logo-1.png"
     url: "https://www.inserm.fr/en/home/"
