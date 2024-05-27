@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 author: Anh Vu Nguyen
-image: assets/images/about/author.png
+image: assets/images/about/author2.png
 signature: assets/images/about/signature.png
 ---
 
